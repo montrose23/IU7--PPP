@@ -1,0 +1,18 @@
+V:\6 semester\ппо\lab_22\client_part\client_part\bin\Debug\client_part.exe.config
+V:\6 semester\ппо\lab_22\client_part\client_part\obj\Debug\client_part.Properties.Resources.resources
+V:\6 semester\ппо\lab_22\client_part\client_part\obj\Debug\client_part.csproj.GenerateResource.Cache
+V:\6 semester\ппо\lab_22\client_part\client_part\bin\Debug\client_part.exe
+V:\6 semester\ппо\lab_22\client_part\client_part\bin\Debug\client_part.pdb
+V:\6 semester\ппо\lab_22\client_part\client_part\obj\Debug\client_part.exe
+V:\6 semester\ппо\lab_22\client_part\client_part\obj\Debug\client_part.pdb
+V:\6 semester\ппо\lab_22\client_part\client_part\obj\Debug\client_part.Form1.resources
+V:\6 semester\ппо\lab_22\client_part\client_part\obj\Debug\client_part.csprojResolveAssemblyReference.cache
+C:\Users\София\Desktop\client_part\client_part\bin\Debug\client_part.exe.config
+C:\Users\София\Desktop\client_part\client_part\obj\Debug\client_part.exe
+C:\Users\София\Desktop\client_part\client_part\obj\Debug\client_part.pdb
+C:\Users\София\Desktop\client_part\client_part\bin\Debug\client_part.exe
+C:\Users\София\Desktop\client_part\client_part\bin\Debug\client_part.pdb
+C:\Users\София\Desktop\client_part\client_part\obj\Debug\client_part.csprojResolveAssemblyReference.cache
+C:\Users\София\Desktop\client_part\client_part\obj\Debug\client_part.Form1.resources
+C:\Users\София\Desktop\client_part\client_part\obj\Debug\client_part.Properties.Resources.resources
+C:\Users\София\Desktop\client_part\client_part\obj\Debug\client_part.csproj.GenerateResource.Cache

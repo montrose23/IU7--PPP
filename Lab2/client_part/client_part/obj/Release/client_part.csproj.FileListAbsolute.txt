@@ -1,0 +1,8 @@
+C:\Users\София\Desktop\client_part\client_part\bin\Release\client_part.exe.config
+C:\Users\София\Desktop\client_part\client_part\bin\Release\client_part.exe
+C:\Users\София\Desktop\client_part\client_part\bin\Release\client_part.pdb
+C:\Users\София\Desktop\client_part\client_part\obj\Release\client_part.Form1.resources
+C:\Users\София\Desktop\client_part\client_part\obj\Release\client_part.Properties.Resources.resources
+C:\Users\София\Desktop\client_part\client_part\obj\Release\client_part.csproj.GenerateResource.Cache
+C:\Users\София\Desktop\client_part\client_part\obj\Release\client_part.exe
+C:\Users\София\Desktop\client_part\client_part\obj\Release\client_part.pdb

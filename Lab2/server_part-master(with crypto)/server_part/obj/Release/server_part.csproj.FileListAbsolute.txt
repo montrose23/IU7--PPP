@@ -1,0 +1,5 @@
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\bin\Release\server_part.exe.config
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\bin\Release\server_part.exe
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\bin\Release\server_part.pdb
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\obj\Release\server_part.exe
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\obj\Release\server_part.pdb

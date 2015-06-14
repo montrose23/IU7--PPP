@@ -1,0 +1,15 @@
+V:\6 semester\ппо\lab_222\server_part\server_part\bin\Debug\server_part.exe.config
+V:\6 semester\ппо\lab_222\server_part\server_part\bin\Debug\server_part.exe
+V:\6 semester\ппо\lab_222\server_part\server_part\bin\Debug\server_part.pdb
+V:\6 semester\ппо\lab_222\server_part\server_part\obj\Debug\server_part.csprojResolveAssemblyReference.cache
+V:\6 semester\ппо\lab_222\server_part\server_part\obj\Debug\server_part.exe
+V:\6 semester\ппо\lab_222\server_part\server_part\obj\Debug\server_part.pdb
+C:\Users\София\Desktop\server_part-master\server_part\bin\Debug\server_part.exe.config
+C:\Users\София\Desktop\server_part-master\server_part\obj\Debug\server_part.exe
+C:\Users\София\Desktop\server_part-master\server_part\obj\Debug\server_part.pdb
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\bin\Debug\server_part.exe.config
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\obj\Debug\server_part.exe
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\obj\Debug\server_part.pdb
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\bin\Debug\server_part.exe
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\bin\Debug\server_part.pdb
+C:\Users\София\Desktop\server_part-master(with crypto)\server_part\obj\Debug\server_part.csprojResolveAssemblyReference.cache
