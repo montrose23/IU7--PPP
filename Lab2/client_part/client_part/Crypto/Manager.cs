@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 fffffffff
 namespace client_part
 {
-    public class Manager
+    blic claefffffefcefrs Manager
     {
         private SymCryptoAlgorithm des;
         private AsymCryptoAlgoritm rsa;
