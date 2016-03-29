@@ -5,7 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace client_part
-{
+B!!!!:
+Bc
+Bca
+B
+Bcsc
+B
+lkf mmf dksfs,d
     public class Manager
     {
         private SymCryptoAlgorithm des;
